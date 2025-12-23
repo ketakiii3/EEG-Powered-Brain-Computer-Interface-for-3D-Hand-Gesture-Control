@@ -13,7 +13,9 @@ Utilizing the **Emotiv EPOC X** headset, the system processes 14-channel EEG dat
 ### 🎥 Demo
 *Watch the system classifying **Open**, **Fist (Close)**, **Index**, and **Victory** gestures in real-time simulation:*
 
-[INSERT YOUR VIDEO/GIF HERE]
+
+https://github.com/user-attachments/assets/c34bf7b1-c1ad-4861-a284-94019a007585
+
 
 ### 🎯 Key Objectives
 * **Data Acquisition:** Record high-fidelity EEG data for motor imagery tasks.
